@@ -81,6 +81,9 @@ body{
     background-color: gray;
     padding-bottom: 20px;
    }
+   .greeting {
+    text-align: center;
+   }
 
     @media (max-width: 768px) {
         .column {
